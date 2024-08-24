@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ketan Gupta
-- 👀 I’m interested in Project management, Cost Control Management, implementation
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 Reach out to me at ketang9287@gmail.com
